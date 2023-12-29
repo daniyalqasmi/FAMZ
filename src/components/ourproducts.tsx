@@ -149,6 +149,7 @@ export default function Ourproducts() {
                 {
                     bestsell.map((items, i) => (
                         <BestSellingcard
+                            key={i}
                             src={items.src}
                             alt={items.alt}
                             title={items.title}
