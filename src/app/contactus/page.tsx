@@ -13,7 +13,7 @@ export default function Contactus() {
                             marginHeight={0}
                             marginWidth={0}
                             scrolling="no"
-                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2488.300937870174!2d-0.12538132393493723!3d51.41589831738447!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48760696b2c122ad%3A0xf9dfb337ef36cfa1!2s13%20Strathbrook%20Rd%2C%20London%20SW16%203AT%2C%20UK!5e0!3m2!1sen!2s!4v1694279936246!5m2!1sen!2s"
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3619.391430035753!2d67.12309567559596!3d24.884626544289723!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3eb3397205af7677%3A0x9c2d3bab97965b42!2sFAMZ!5e0!3m2!1sen!2s!4v1703876798993!5m2!1sen!2s"
                             style={{ filter: " contrast(1.2) opacity(0.4)" }}
                         />
                         <div className="bg-mybg relative flex flex-wrap py-6 rounded shadow-md border-solid border-2 border-black bg-opacity-color-20">
