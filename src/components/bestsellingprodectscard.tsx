@@ -16,7 +16,7 @@ export default function BestSellingcard(
             title: string,
         }) {
     return (
-        <div className="max-w-[350px] h-[20rem]  p-4 mx-auto shadow-myheading shadow-md relative rounded-xl  group bg-mytext/40 ">
+        <div className="max-w-[350px] h-[25rem]  p-4 mx-auto shadow-myheading shadow-md relative rounded-xl  group bg-mytext/40 ">
             <Link href={`#`}>
             {/* image */}
             <div className="block h-[23rem rounded overflow-hidden]">
